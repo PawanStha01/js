@@ -23,7 +23,7 @@ let isLoging = false // boolean
 
 // string => " " or ' '
 //boolean =>  true/ false
-// null   => standlone value
+// null   => standlone value //object
 //undefined => 
 // symbol => unique
 
