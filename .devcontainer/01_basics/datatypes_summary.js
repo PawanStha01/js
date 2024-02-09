@@ -32,3 +32,11 @@ const myFunction = function(){
 }
 
 console.log(typeof isLoggedIn);
+
+
+
+/// -----------------------------------------
+// types of mermory stack and heap 
+// stack is for primitive types , heap is for reference types
+let 
+
